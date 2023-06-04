@@ -10,8 +10,8 @@
   <h2>Projects</h2>
   <ul>
     <li><a href="https://youtu.be/pUJwrKUejpc">How to fix double tap not working on MacBook Pro?</a></li>
+    <li><a href="https://youtu.be/xOCkys3yDb0">How to block any website on Windows 10?</a></li>
     <li><a href="https://youtu.be/UMRCdIPKOBA">How to create a temperature conversion calculator using Java?</a></li>
-    <li><a href="https://youtu.be/xOCkys3yDb0">How to block any website on Windows 10</a></li>
     <li><a href="https://youtu.be/IC1DRqo89A4">Do While Loop Example in Java</a></li>
   </ul>
 
