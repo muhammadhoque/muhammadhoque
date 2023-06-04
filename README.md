@@ -6,6 +6,9 @@
 <body>
   <h1>Hi, this is Muhammad Hoque! <br/><a href="https://www.linkedin.com/in/muhammadhoque" target="_blank" rel="noopener noreferrer">IT Professional</a>, <a href="https://www.medium.com/@hoquetechnology" target="_blank" rel="noopener noreferrer">Writer</a>, <a href="https://www.youtube.com/@hoquetechnology" target="_blank" rel="noopener noreferrer">YouTuber</a></h1>
 
+  <h1>About Me</h1>
+  <p>I am a passionate and proactive problem-solver with a deep love for technology. With strong troubleshooting skills, diverse knowledge in various technologies, and certifications in CompTIA Security+, Network+, and A+, I am committed to continuous growth and staying at the forefront of the IT industry. Pursuing a B.S. degree in Cybersecurity, I thrive in dynamic environments, finding innovative solutions and driving meaningful change. As a team player with excellent communication skills, I deliver high-quality work under tight deadlines. Let's connect and explore how we can collaborate to make a lasting impact in the IT industry.</p>
+
    <h2>Articles</h2>
   <ul>
     <li><a href="https://medium.com/@HoqueTechnology/tcp-ip-explained-unveiling-the-inner-workings-of-network-communication-66dd86edbaed" target="_blank" rel="noopener noreferrer">TCP/IP Explained: Unveiling the Inner Workings of Network Communication</a></li>
