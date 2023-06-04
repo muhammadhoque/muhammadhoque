@@ -8,7 +8,7 @@
 
    <h2>Articles</h2>
   <ul>
-    <li><a href="https://medium.com/@HoqueTechnology/tcp-ip-explained-unveiling-the-inner-workings-of-network-communication-66dd86edbaed)">TCP/IP Explained: Unveiling the Inner Workings of Network Communication</a></li>
+    <li><a href="https://medium.com/@HoqueTechnology/tcp-ip-explained-unveiling-the-inner-workings-of-network-communication-66dd86edbaed">TCP/IP Explained: Unveiling the Inner Workings of Network Communication</a></li>
     <li><a href="https://medium.com/@HoqueTechnology/the-osi-model-a-simple-explanation-6b886d1952db">The OSI Model: A Simple Explanation</a></li>
     <li><a href="https://medium.com/@HoqueTechnology/how-to-use-a-custom-domain-with-github-pages-84c93bc32889">How to Use a Custom Domain with GitHub Pages</a></li>
     <li><a href="https://medium.com/@HoqueTechnology/demystifying-networking-devices-modem-dsl-modem-switch-router-and-hub-cf3b64a1bc1f">Demystifying Networking Devices: Modem, DSL Modem, Switch, Router, and Hub</a></li>
