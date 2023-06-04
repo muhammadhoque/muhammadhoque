@@ -15,6 +15,7 @@
     <li><a href="https://medium.com/@HoqueTechnology/the-osi-model-a-simple-explanation-6b886d1952db" target="_blank" rel="noopener noreferrer">The OSI Model: A Simple Explanation</a></li>
     <li><a href="https://medium.com/@HoqueTechnology/how-to-use-a-custom-domain-with-github-pages-84c93bc32889" target="_blank" rel="noopener noreferrer">How to Use a Custom Domain with GitHub Pages</a></li>
     <li><a href="https://medium.com/@HoqueTechnology/demystifying-networking-devices-modem-dsl-modem-switch-router-and-hub-cf3b64a1bc1f" target="_blank" rel="noopener noreferrer">Demystifying Networking Devices: Modem, DSL Modem, Switch, Router, and Hub</a></li>
+    <li><a href="https://medium.com/p/47faa60e6557" target="_blank" rel="noopener noreferrer">The Dark Side of Amazon: The Risks of Buying Cheap Tech</a></li>
   </ul>
   
   <h2>Popular YouTube Videos</h2>
