@@ -5,7 +5,8 @@
 </head>
 <body>
   <h1><strong>Hi, this is Muhammad Hoque!</strong></h1>
-  <p><strong><a href="https://www.linkedin.com/in/muhammadhoque">IT Professional</a>, <a href="https://www.youtube.com/@hoquetechnology">YouTuber</a></strong></p>
+  <p><strong><a href="https://www.linkedin.com/in/muhammadhoque">IT Professional</a>, <a href="https://www.medium.com/@hoquetechnology">Writer</a>, 
+    <a href="https://www.youtube.com/@hoquetechnology">YouTuber</a></strong></p>
 
   <h2>Projects</h2>
   <ul>
