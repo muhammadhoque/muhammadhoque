@@ -4,9 +4,9 @@
   <!-- <title>My Profile - Muhammad Hoque</title> -->
 </head>
 <body>
-  <h1><strong>Hi, this is Muhammad Hoque!</strong></h1>
-  <p><strong><a href="https://www.linkedin.com/in/muhammadhoque">IT Professional</a>, <a href="https://www.medium.com/@hoquetechnology">Writer</a>, 
-    <a href="https://www.youtube.com/@hoquetechnology">YouTuber</a></strong></p>
+  <h1>Hi, this is Muhammad Hoque!</h1>
+  <h1><a href="https://www.linkedin.com/in/muhammadhoque">IT Professional</a>, <a href="https://www.medium.com/@hoquetechnology">Writer</a>, 
+    <a href="https://www.youtube.com/@hoquetechnology">YouTuber</a><h1>
 
    <h2>Articles</h2>
   <ul>
