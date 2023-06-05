@@ -9,7 +9,23 @@
   <h1>About Me</h1>
   <p>I am a passionate and proactive problem-solver with a deep love for technology. With strong troubleshooting skills, diverse knowledge in various technologies, and certifications in CompTIA Security+, Network+, and A+, I am committed to continuous growth and staying at the forefront of the IT industry. Pursuing a B.S. degree in Cybersecurity, I thrive in dynamic environments, finding innovative solutions and driving meaningful change. As a team player with excellent communication skills, I deliver high-quality work under tight deadlines. Let's connect and explore how we can collaborate to make a lasting impact in the IT industry.</p>
 
-  <h2>Projects</h2>
+  <h2>Cyber Security Projects</h2>
+    <ul>
+        <li>Projects coming soon.</li>
+        <li>List Item 1</li>
+        <li>List Item 2</li>
+        <li>List Item 3</li>
+        <li>List Item 4</li>
+   </ul> 
+    <h2>IT Help Desk Projects</h2>
+    <ul>
+        <li>Projects coming soon.</li>
+        <li>List Item 1</li>
+        <li>List Item 2</li>
+        <li>List Item 3</li>
+        <li>List Item 4</li>
+   </ul> 
+    <h2>Network Projects</h2>
     <ul>
         <li>Projects coming soon.</li>
         <li>List Item 1</li>
