@@ -41,7 +41,11 @@
   
   <h2>Popular YouTube Videos</h2>
   <ul>
-    <li><a href="https://youtu.be/pUJwrKUejpc" target="_blank" rel="noopener noreferrer">How to fix double tap not working on MacBook Pro?</a></li>
+    <li><a href="https://youtu.be/pUJwrKUejpc">How to fix double tap not working on MacBook Pro?</a></li>
+    <li><a href="https://youtu.be/UMRCdIPKOBA">How to create a temperature conversion calculator using Java?
+    <li><a href="https://youtu.be/xOCkys3yDb0">How to block any website on Windows 10?</a></li>
+
+    
   </ul>
 
   <h2>Certificates</h2>
