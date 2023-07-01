@@ -47,8 +47,10 @@
     <li><a href="https://youtu.be/xOCkys3yDb0">How to block any website on Windows 10?</a></li>
   </ul>
 
-  <h2>Certificates</h2>
+  <h2>Certifications</h2>
   <ul>
+    <li><a href=https://www.credly.com/earner/earned/badge/51cbbbab-9d72-4098-9b42-a0367685e46d">ISC^2 SSCP</a></li>
+    <li><a href=https://www.credly.com/earner/earned/badge/c922bbb2-5f6c-43e8-9009-4960c3bbf507">CompTIA PenTest+</a></li>
     <li><a href="https://www.credly.com/badges/49373eb2-af72-4974-86c9-9117034bcd69/public_url">CompTIA Security+</a></li>
     <li><a href="https://www.credly.com/badges/54ac0f98-4ac2-4345-a6c9-bf8a344fb60b">CompTIA Network+</a></li>
     <li><a href="https://www.credly.com/badges/1c8ae2ce-284b-4c17-8652-017c73066feb">CompTIA A+</a></li>
