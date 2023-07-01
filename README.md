@@ -7,7 +7,9 @@
   <h1>Hi, this is Muhammad Hoque! <br/><a href="https://www.linkedin.com/in/muhammadhoque">IT Professional</a>, <a href="https://www.medium.com/@hoquetechnology">Tech Writer</a>, <a href="https://www.youtube.com/@hoquetechnology">Tech Content Creator</a></h1>
 
   <h1>About Me</h1>
-  <p>I am a passionate and proactive problem-solver with a deep love for technology. With strong troubleshooting skills, diverse knowledge in various technologies, and certifications in CompTIA Security+, Network+, and A+, I am committed to continuous growth and staying at the forefront of the IT industry. Pursuing a B.S. degree in Cybersecurity, I thrive in dynamic environments, finding innovative solutions and driving meaningful change. As a team player with excellent communication skills, I deliver high-quality work under tight deadlines. Let's connect and explore how we can collaborate to make a lasting impact in the IT industry.</p>
+  <p>
+Proactive and dedicated problem-solver with a strong passion for technology. Equipped with proven troubleshooting skills and a wide range of knowledge across various technologies. Certified in ISC^2 SSCP, CompTIA PenTest+, Security+, Network+, and A+. With a B.S. degree in Cybersecurity and Information Assurance, demonstrate a commitment to continuous growth in the ever-evolving IT industry. Thrive in dynamic environments, adept at finding innovative solutions and driving positive change. Collaborative team player with excellent communication skills, consistently delivering high-quality work within tight deadlines. Let's connect to discuss how we can contribute to the IT industry together.
+  </p>
 
   <h2>IT Help Desk Projects</h2>
     <ul>
