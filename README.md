@@ -11,8 +11,8 @@ Proactive and dedicated problem-solver with a strong passion for technology. Equ
   </p>
  <h2>Education</h2>
     <ul>
-     <li> <b>B.S. in Cybersecurity and Information Assurance</b>, <i>Western Governors University</i> | SLC, UT 06, 2023 </li>
-     <li> <b>A.A.S in Computer Information Systems and Cybersecurity</b>, <i>WCCCD</i> | Detroit, MI 05, 2021 </li>
+     <li> <b>B.S. in Cybersecurity and Information Assurance</b>, <i>Western Governors University</i> | SLC, UT | July 2023 </li>
+     <li> <b>A.A.S in Computer Information Systems and Cybersecurity</b>, <i>WCCCD</i> | Detroit, MI | May 2021 </li>
     </ul>
  <h2>Certifications</h2>
   <ul>
