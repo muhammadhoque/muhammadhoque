@@ -10,8 +10,20 @@
   <p>
 Proactive and dedicated problem-solver with a strong passion for technology. Equipped with proven troubleshooting skills and a wide range of knowledge across various technologies. Certified in ISC^2 SSCP, CompTIA PenTest+, Security+, Network+, and A+. With a B.S. degree in Cybersecurity and Information Assurance, demonstrate a commitment to continuous growth in the ever-evolving IT industry. Thrive in dynamic environments, adept at finding innovative solutions and driving positive change. Collaborative team player with excellent communication skills, consistently delivering high-quality work within tight deadlines. Let's connect to discuss how we can contribute to the IT industry together.
   </p>
-
-  <h2>IT Help Desk Projects</h2>
+ <h2>Education</h2>
+    <ul>
+     <li> <b>B.S. in Cybersecurity and Information Assurance</b>, <i>Western Governors University</i> | SLC, UT 06, 2023 </li>
+     <li> <b>A.A.S in Computer Information Systems and Cybersecurity</b>, <i>WCCCD</i> | Detroit, MI 05, 2021 </li>
+    </ul>
+ <h2>Certifications</h2>
+  <ul>
+    <li><a href=https://www.credly.com/badges/51cbbbab-9d72-4098-9b42-a0367685e46d/public_url">ISC^2 SSCP, 
+<a href=https://www.credly.com/badges/c922bbb2-5f6c-43e8-9009-4960c3bbf507/public_url">CompTIA PenTest+</a></li>
+    <li><a href="https://www.credly.com/badges/49373eb2-af72-4974-86c9-9117034bcd69/public_url">CompTIA Security+</a></li>
+    <li><a href="https://www.credly.com/badges/54ac0f98-4ac2-4345-a6c9-bf8a344fb60b">CompTIA Network+</a></li>
+    <li><a href="https://www.credly.com/badges/1c8ae2ce-284b-4c17-8652-017c73066feb">CompTIA A+</a></li>
+  </ul>
+  <h2>IT Projects</h2>
     <ul>
         <li>Projects coming soon.</li>
         <li>List Item 1</li>
@@ -49,13 +61,6 @@ Proactive and dedicated problem-solver with a strong passion for technology. Equ
     <li><a href="https://youtu.be/xOCkys3yDb0">How to block any website on Windows 10?</a></li>
   </ul>
 
-  <h2>Certifications</h2>
-  <ul>
-    <li><a href=https://www.credly.com/badges/51cbbbab-9d72-4098-9b42-a0367685e46d/public_url">ISC^2 SSCP</a></li>
-    <li><a href=https://www.credly.com/badges/c922bbb2-5f6c-43e8-9009-4960c3bbf507/public_url">CompTIA PenTest+</a></li>
-    <li><a href="https://www.credly.com/badges/49373eb2-af72-4974-86c9-9117034bcd69/public_url">CompTIA Security+</a></li>
-    <li><a href="https://www.credly.com/badges/54ac0f98-4ac2-4345-a6c9-bf8a344fb60b">CompTIA Network+</a></li>
-    <li><a href="https://www.credly.com/badges/1c8ae2ce-284b-4c17-8652-017c73066feb">CompTIA A+</a></li>
-  </ul>
+
 </body>
 </html>
