@@ -17,8 +17,8 @@ Proactive and dedicated problem-solver with a strong passion for technology. Equ
     </ul>
  <h2>Certifications</h2>
   <ul>
-    <li><a href=https://www.credly.com/badges/51cbbbab-9d72-4098-9b42-a0367685e46d/public_url">ISC^2 SSCP, 
-<a href=https://www.credly.com/badges/c922bbb2-5f6c-43e8-9009-4960c3bbf507/public_url">CompTIA PenTest+</a>, 
+    <li><a href=https://www.credly.com/badges/51cbbbab-9d72-4098-9b42-a0367685e46d/public_url">ISC^2 SSCP</a>, 
+      <a href=https://www.credly.com/badges/c922bbb2-5f6c-43e8-9009-4960c3bbf507/public_url">CompTIA PenTest+</a>, 
       <a href="https://www.credly.com/badges/49373eb2-af72-4974-86c9-9117034bcd69/public_url">CompTIA Security+</a>, 
       <a href="https://www.credly.com/badges/54ac0f98-4ac2-4345-a6c9-bf8a344fb60b">CompTIA Network+</a>, 
       <a href="https://www.credly.com/badges/1c8ae2ce-284b-4c17-8652-017c73066feb">CompTIA A+</a></li>
