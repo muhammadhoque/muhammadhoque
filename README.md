@@ -33,7 +33,6 @@ Proactive and dedicated problem-solver with a strong passion for technology. Equ
   
   <h2>Articles</h2>
   <ul>
-    <li><a href="https://medium.com/@HoqueTechnology/the-osi-model-a-simple-explanation-6b886d1952db">Decoding the OSI Model: A Simple Beginner’s Guide</a></li>
    <li><a href="https://medium.com/@HoqueTechnology/how-to-use-a-custom-domain-with-github-pages-84c93bc32889">How to Use a Custom Domain with GitHub Pages</a></li>
     <li><a href="https://medium.com/@HoqueTechnology/the-perils-of-cheap-tech-gadgets-why-you-should-think-twice-before-buying-from-amazon-47faa60e6557">The Risks of Buying Cheap Tech</a></li>
    
