@@ -3,7 +3,8 @@
   <!-- <title>My Profile - Muhammad Hoque</title> -->
 </head>
 <body>
-  <h1>Hi, this is Muhammad Hoque! <br/><a href="https://www.linkedin.com/in/muhammadhoque">IT Professional</a>, <a href="https://www.medium.com/@hoquetechnology">Tech Writer</a>, <a href="https://www.youtube.com/@hoquetechnology">Tech Content Creator</a></h1>
+  <h1>Hi, this is Muhammad Hoque!<br><span style="color: blue;">IT Specialist</span></h1>
+
 
   <h1>About Me</h1>
   <p>
@@ -22,6 +23,25 @@ Proactive and dedicated problem-solver with a strong passion for technology. Equ
       <a href="https://www.credly.com/badges/54ac0f98-4ac2-4345-a6c9-bf8a344fb60b">CompTIA Network+</a>, 
       <a href="https://www.credly.com/badges/1c8ae2ce-284b-4c17-8652-017c73066feb">CompTIA A+</a></li>
   </ul>
+  <h2>Work History</h2>
+<ul>
+  <li>
+    <b>IT Equipment Coordinator</b> • Amazon • Detroit, MI • 2020 – Present
+    <ul>
+      <li>Procure IT equipment and peripherals in line with business needs and budget constraints.</li>
+      <li>Maintain accurate inventory records of all IT hardware and peripherals.</li>
+      <li>Coordinate equipment requests and distribution to various teams and employees.</li>
+      <li>Manage equipment returns and ensure the timely replacement or repair of faulty items.</li>
+      <li>Collaborate with vendors and suppliers to ensure timely delivery and support.</li>
+      <li>Maintain compliance with IT asset management and security policies.</li>
+      <li>Provide technical support to end-users, including basic troubleshooting and setup assistance.</li>
+      <li>Conduct regular audits to ensure the accuracy of inventory records and asset tracking.</li>
+      <li>Handle the disposal or recycling of outdated or obsolete equipment in an environmentally responsible manner.</li>
+      <li>Maintain documentation related to equipment specifications, configurations, and usage guidelines.</li>
+    </ul>
+  </li>
+</ul>
+
   <h2>Projects</h2>
     <ul>
         <li>Projects coming soon.</li>
