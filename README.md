@@ -1,6 +1,5 @@
 <html>
 <head>
-  <!-- <title>My Profile - Muhammad Hoque</title> -->
 </head>
 <body>
   <h1>Hi, this is Muhammad Hoque!<br><span style="color: blue;">IT Specialist</span></h1>
