@@ -3,26 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <div class="social-header">
-            <a href="https://linkedin.com/in/muhammadhoque" target="_blank">
-                <img src="social_media/linkedin.png" alt="LinkedIn">
-            </a>
-            <a href="https://twitter.com/hoquetechnology" target="_blank">
-                <img src="social_media/twitter.png" alt="Twitter">
-            </a>
-            <a href="https://medium.com/@hoquetechnology" target="_blank">
-                <img src="social_media/medium.png" alt="Medium">
-            </a>
-            <a href="https://youtube.com/@hoquetechnology" target="_blank">
-                <img src="social_media/youtube.png" alt="YouTube">
-            </a>
-            <a href="https://github.com/muhammadhoque" target="_blank">
-                <img src="social_media/github.png" alt="GitHub">
-            </a>
-            <a href="https://drive.google.com/file/d/1kVFz9_tWEKuVFJvnAvh3EdxBwwgwqot3/view?usp=sharing" target="_blank">
-                <img src="social_media/resume.png" alt="Resume">
-            </a>
-        </div>
+<div class="social-header">
+    <a href="https://linkedin.com/in/muhammadhoque" target="_blank">LinkedIn</a>
+    <a href="https://twitter.com/hoquetechnology" target="_blank">Twitter</a>
+    <a href="https://medium.com/@hoquetechnology" target="_blank">Medium</a>
+    <a href="https://youtube.com/@hoquetechnology" target="_blank">YouTube</a>
+    <a href="https://github.com/muhammadhoque" target="_blank">GitHub</a>
+    <a href="https://drive.google.com/file/d/1kVFz9_tWEKuVFJvnAvh3EdxBwwgwqot3/view?usp=drive_link" target="_blank">Resume</a>
+</div>
+
 </head>
 <body>
     </header>
