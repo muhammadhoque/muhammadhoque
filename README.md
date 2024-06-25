@@ -5,8 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <header class="header">
-        <a href="#">Muhammad Hoque</a>
     </header>
     <div class="container">
         <h1>About Me</h1>
